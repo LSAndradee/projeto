@@ -1,0 +1,8 @@
+hr {
+    margin: 0;
+}
+
+.rodape {
+    background-color: var(--cor-de-fundo-menu);
+    padding: 1em;
+}
