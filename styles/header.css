@@ -135,7 +135,7 @@
     }
 
     .lista-menu__item:hover {
-        background: var(--cor-de-fundo-menu);
+        background: var(--cor-lista-menu);
     }
 
     .lista-menu__item:hover>.lista-menu__link {
